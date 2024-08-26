@@ -1,2 +1,2 @@
 # Meus-Projetos
-Apresentação de projetos desenvolvidos em .NET
+Gerador de QrCode em lingugem python com uso de biblioteca qrcode
